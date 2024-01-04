@@ -2,7 +2,7 @@
 
 
 ## 📚 skill
-<p><strong>Backend</strong></p>
+<p><strong>✔ Backend</strong></p>
   <div>
     <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -12,7 +12,7 @@
     
   </div>
 
-<p><strong>Frontend</strong></p>
+<p><strong>✔ Frontend</strong></p>
   <div>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
@@ -21,19 +21,19 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
   </div>
 
-<p><strong>Database</strong></p>
+<p><strong>✔ Database</strong></p>
   <div>
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
   </div>
 
-<p><strong>Tools</strong></p>
+<p><strong>✔ Tools</strong></p>
   <div>
     <img src="https://img.shields.io/badge/STS 4.19.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/gradle 8.3-02303A?style=for-the-badge&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div>
+
+
 
 
 <!--
