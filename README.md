@@ -41,7 +41,7 @@
 - [묘견이네](https://github.com/ahiivii/web_animalShelter) (23.10.16 ~ 23.11.15)
 
 ## 📝 About Me
-[<img src="https://img.shields.io/badge/라코딩-03C75A?style=for-the-badge&logo=tistory&logoColor=white">](https://blog.naver.com/rakk0)
+[<img src="https://img.shields.io/badge/라코딩-03C75A?style=for-the-badge&logo=naver&logoColor=white">](https://blog.naver.com/rakk0)
 
 <!--
 **ahiivii/ahiivii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
