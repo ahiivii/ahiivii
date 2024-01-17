@@ -19,21 +19,29 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
   </div>
-
+<br>
 <p><strong>✔ Database</strong></p>
   <div>
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   </div>
-
+<br>
 <p><strong>✔ Tools</strong></p>
   <div>
     <img src="https://img.shields.io/badge/STS 4.19.0-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/gradle 8.3-02303A?style=for-the-badge&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div>
+<br>
 
+## 🏫 Education
+아이티윌 프로젝트 기반 자바 핀테크 웹 개발자 양성과정 (2023.05.17 ~ 2023.11.15)
 
+## 💾 Project
+- [이신발어때](https://github.com/ahiivii/web_thisShoes) (23.08.18. ~ 23.08.28)
+- [묘견이네](https://github.com/ahiivii/web_animalShelter) (23.10.16 ~ 23.11.15)
 
+## 📝 About Me
+[<img src="https://img.shields.io/badge/라코딩-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://blog.naver.com/rakk0)
 
 <!--
 **ahiivii/ahiivii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
