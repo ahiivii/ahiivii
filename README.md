@@ -9,9 +9,8 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Data JPA-2C2255?style=for-the-badge&logo=amazondocumentdb&logoColor=white">
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-    
   </div>
-
+<br>
 <p><strong>✔ Frontend</strong></p>
   <div>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
