@@ -42,6 +42,7 @@
 
 ## 📝 About Me
 [<img src="https://img.shields.io/badge/라코딩-03C75A?style=for-the-badge&logo=naver&logoColor=white">](https://blog.naver.com/rakk0)
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">](https://blog.naver.com/rakk0)
 
 <!--
 **ahiivii/ahiivii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
